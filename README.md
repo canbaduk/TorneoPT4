@@ -24,7 +24,7 @@ Bye player: Figueiredo Jo~ao
 
 | Table | White | Black | Hd | Game |
 | ----- | ----- | ----- | -- | ---- |
-| 1 | Goncalves Simao | Fernández Lendoiro José | 0 |  | 
+| 1 | **Goncalves Simao** | Fernández Lendoiro José | 0 | [link](https://online-go.com/game/22367902) | 
 | 2 | Pereira Pedro | Pereira Francisco | 0 | |
 | 3 | Carmona Pedro | Fraembs Sascha | 0 | |
 | 4 | Malhado Rui | **Trabulo Gabriel** | 0 | [link](https://gokibitz.com/kifu/BJGU_jUSI?path=111) |
