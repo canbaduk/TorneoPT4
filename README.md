@@ -25,16 +25,35 @@ Bye player: Figueiredo Jo~ao
 | Table | White | Black | Hd | Game |
 | ----- | ----- | ----- | -- | ---- |
 | 1 | **Goncalves Simao** | Fernández Lendoiro José | 0 | [link](https://online-go.com/game/22367902) | 
-| 2 | Pereira Pedro | Pereira Francisco | 0 | |
-| 3 | Carmona Pedro | Fraembs Sascha | 0 | |
+| 2 | **Pereira Pedro** | Pereira Francisco | 0 | |
+| 3 | Carmona Pedro | **Fraembs Sascha** | 0 | |
 | 4 | Malhado Rui | **Trabulo Gabriel** | 0 | [link](https://gokibitz.com/kifu/BJGU_jUSI?path=111) |
 | 5 | Riberiro Leandro | **Reis Nelson** | 0 | [link](https://online-go.com/game/22314441) |
 | 6 | **Goncalves Fernando** | Jacobs Nick | 0 | [link](https://gokibitz.com/kifu/BJYL7FBSI) |
 | 7 | Pimenta Vasco | **Ferreira Jo~ao** | 0 | [link](https://gokibitz.com/kifu/HyzklHNH8) |
-| 8 | Ferreira Davide | Vieria Jo~ao | 0 | |
+| 8 | Ferreira Davide | **Vieria Jo~ao** | 0 | |
 | 9 | Silva Bruno| **Maza Felipe** | 0 | [link](https://gokibitz.com/kifu/rJZEEAqHL) |
 |10 | **Goncalves Joao** | Veiga Miyagi | 0 | [link](https://gokibitz.com/kifu/BycpPNOHL) |
 |11 | **Martinez Lito** | Goday Víctor | 0 | [link](https://gokibitz.com/kifu/B1Ehh3srL) |
-|12 | Pereira Silvério | Figueiredo Jo~ao | 4 |  |
+|12 | Pereira Silvério | **Figueiredo Jo~ao** | 4 | [link](https://online-go.com/game/22448890) |
 
 Bye player: Couto Charles
+
+# Round 3
+
+| Table | White | Black | Hd | Game |
+| ----- | ----- | ----- | -- | ---- |
+| 1 | Goncalves Simao | Pereira Pedro | 0 | | 
+| 2 | Fraembs Sascha | Vieria Jo~ao | 0 | |
+| 3 | Reis Nelson | Carmona Pedro | 0 | |
+| 4 | Trabulo Gabriel | Pereira Francisco | 0 | |
+| 5 | Fernández Lendoiro José | Goncalves Fernando | 0 | |
+| 6 | Riberiro Leandro | Malhado Rui | 0 | |
+| 7 | Maza Felipe | Jacobs Nick | 0 | |
+| 8 | Ferreira Jo~ao | Goday Víctor | 1 | |
+| 9 | Martinez Lito | Pimenta Vasco | 0 | |
+|10 | Ferreira Davide | Veiga Miyagi | 0 | |
+|11 | Silva Bruno | Goncalves Joao | 0 | |
+|12 | Figueiredo Jo~ao | Couto Charles | 0 | |
+
+Bye player: Pereira Silvério
