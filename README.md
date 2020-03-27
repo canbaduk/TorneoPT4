@@ -6,7 +6,7 @@
 | ----- | ----- | ----- | -- | ---- |
 | 1 | Reis Nelson | **Goncalves Simao** | 0 | [link](https://online-go.com/game/22050207) |
 | 2 | **Pereira Pedro** | Malhado Rui | 0 | [link](https://gokibitz.com/kifu/B1GvZ5dQU) |
-| 3 | Jacobs Nick | Fraembs Sascha | 0 | |
+| 3 | **Jacobs Nick** | Fraembs Sascha | 0 | [link](https://gokibitz.com/kifu/ry7BnbsUL) |
 | 4 | Trabulo Gabriel | **Carmona Pedro** | 0 | [link](https://gokibitz.com/kifu/r1srkm57L) |
 | 5 | **Pereira Francisco** | Goncalves Fernando | 0 | [link](https://gokibitz.com/kifu/H1v9WGQNU) |
 | 6 | **Fernández Lendoiro José** | Riberiro Leandro | 0 | [link](https://gokibitz.com/kifu/HJnml1Cm8) |
@@ -26,7 +26,7 @@ Bye player: Figueiredo João
 | ----- | ----- | ----- | -- | ---- |
 | 1 | **Goncalves Simao** | Fernández Lendoiro José | 0 | [link](https://online-go.com/game/22367902) | 
 | 2 | **Pereira Pedro** | Pereira Francisco | 0 | |
-| 3 | Carmona Pedro | **Fraembs Sascha** | 0 | |
+| 3 | Carmona Pedro | **Fraembs Sascha** | 0 | [link](https://gokibitz.com/kifu/H1YI3ZsUL) |
 | 4 | Malhado Rui | **Trabulo Gabriel** | 0 | [link](https://gokibitz.com/kifu/BJGU_jUSI?path=111) |
 | 5 | Riberiro Leandro | **Reis Nelson** | 0 | [link](https://online-go.com/game/22314441) |
 | 6 | **Goncalves Fernando** | Jacobs Nick | 0 | [link](https://gokibitz.com/kifu/BJYL7FBSI) |
@@ -44,10 +44,10 @@ Bye player: Couto Charles
 | Table | White | Black | Hd | Game |
 | ----- | ----- | ----- | -- | ---- |
 | 1 | Goncalves Simao | Pereira Pedro | 0 | | 
-| 2 | Fraembs Sascha | Vieria João | 0 | |
+| 2 | **Fraembs Sascha** | Vieria João | 0 | [link](https://gokibitz.com/kifu/BJU2oY5LL) |
 | 3 | Reis Nelson | Carmona Pedro | 0 | |
 | 4 | Trabulo Gabriel | Pereira Francisco | 0 | |
-| 5 | Fernández Lendoiro José | Goncalves Fernando | 0 | |
+| 5 | **Fernández Lendoiro José** | Goncalves Fernando | 0 | [link](https://gokibitz.com/kifu/ByKlPv9LI) |
 | 6 | Riberiro Leandro | Malhado Rui | 0 | |
 | 7 | Maza Felipe | Jacobs Nick | 0 | |
 | 8 | Ferreira João | Goday Víctor | 1 | |
